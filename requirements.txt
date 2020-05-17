@@ -1,2 +1,7 @@
+opencv-python
+matplotlib
+numpy
 pillow
 pytest
+sklearn
+opencv-contrib-python
